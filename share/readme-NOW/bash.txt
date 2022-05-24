@@ -1,0 +1,13 @@
+cd
+cmd
+echo/printf
+exit
+false
+local
+pwd
+read
+shift
+test
+true
+umask
+unset

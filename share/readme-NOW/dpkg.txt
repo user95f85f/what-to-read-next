@@ -1,0 +1,9 @@
+atool
+curl
+info
+links
+links2
+lynx
+pinfo
+rsync
+wget
