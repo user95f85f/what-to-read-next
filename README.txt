@@ -18,6 +18,16 @@ sudo bash install.sh
 readme.sh
 # to get some random reading for the day.
 
+#Here is an example output:
+$: for i in 1 2 3 4 5 6 7; do readme.sh; done
+apt-cache show curl
+perldoc -f warn
+man man
+perldoc -f system
+help pwd
+man rm
+perldoc -f use
+
 #if you don't love me anymore you can uninstall it from your system:
 sudo bash uninstall.sh
 
