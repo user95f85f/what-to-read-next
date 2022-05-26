@@ -28,15 +28,15 @@ help pwd
 man rm
 perldoc -f use
 
-#if you don't love me anymore you can uninstall it from your system:
+#if you wish to remove this "package" from your system you can go:
 sudo bash uninstall.sh
 
 
 ---------------------
 
-the ugly truth about programming is that PHP?/HTML/CSS/JavaScript (in a browser) and below is 99% of all the shit you'll ever need.
+the ugly truth about programming is that PHP?/HTML/CSS/JavaScript (in a browser) and below is 99% of all you'll ever really need.
 
-read all of the documentation within a year and you'll be a sorcerer on Linux guarenfuckinteed.
+read all of the necessary perl/linux/bash documentation within a year and you'll be so talented.
 then read it all again within 5 years
 then read it all again within 10 years
 then read it all again within 20 years
@@ -46,7 +46,7 @@ to keep fresh.
 
 
 THESE COMMANDS/DEBIAN-PACKAGES/FUNCTIONS/PERL-MODULES ARE MY PERSONAL RECOMMENDATIONS
-bash (cd, cmd, echo/printf, exit, false, local, pwd, read, shift, test, true, umask, unset)
+bash (cd, cmp, echo/printf, exit, false, local, pwd, read, shift, test, true, umask, unset)
 dpkg (atool, curl, info, links, links2, lynx, pinfo, rsync, wget)
 linux/cygwin/wsl2 terminal (apack/aunpack/gzip/bzip2/xz/tar, awk, basename/dirname, cat, column, cp/rsync, cut, df, diff, du, file, find, grep/egrep, head/tail, links/lynx/links2, ls, man/info/pinfo, mkdir, mktemp, paste, perl, perldoc, ps, rm, rmdir, sed, sleep, sort/shuf, tac, top, tr, uname, wc, wget/curl)
 perl (defined, exists/delete, exit, grep, index, join/split, keys/values, map, open/binmode/close, pack/unpack, print, printf, push/pop/shift/unshift, read, sleep, sort, sprintf, substr, system, uc/lc, unlink, use, warn)
