@@ -36,7 +36,7 @@ sudo bash uninstall.sh
 
 the ugly truth about programming is that PHP?/HTML/CSS/JavaScript (in a browser) and below is 99% of all you'll ever really need.
 
-read all of the necessary perl/linux/bash documentation within a year and you'll be so talented.
+read all of the necessary perl/GNU-linux/bash documentation within a year and you'll be so talented.
 then read it all again within 5 years
 then read it all again within 10 years
 then read it all again within 20 years
