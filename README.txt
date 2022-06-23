@@ -2,7 +2,7 @@
 sudo apt install atool curl info links links2 lynx pinfo rsync wget perl-doc
 # note: atool allows you to super quickly extract .tar.gz/.tar.bz2/.zip/.rar/.7z with one easy to remember command (aunpack, `man aunpack`)
 #       atool allows you to super quickly compress a file or directory into a .tar.gz/.tar.bz2/.zip/.rar/.7z with one easy to remember command (`man apack`)
-# note: perl-doc gives you the `perldoc` command to view information about perl modules/functions + FAQ + other shit. read `perldoc perltoc` or go
+# note: perl-doc gives you the `perldoc` command to view information about perl modules/functions + FAQ + other sh**. read `perldoc perltoc` or go
 #       `dpkg -L perl-doc` to see all the package/resources it has to offer.
 # note: pinfo is info except it's super easy to browse the info file with arrow keys and 'q' to quit
 # note: 99% of the time you'll be using aunpack/apack VS unzip/zip/unrar/tar/bz2/xz

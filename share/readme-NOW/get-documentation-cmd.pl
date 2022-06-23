@@ -31,7 +31,7 @@ for(<*.txt>){
         print "apt-cache show $target_function_module_cmd_whatever\n";
       }
       else{
-        die 'you fuck.';
+        die 'you f***.';
       }
     }
     $local_counter++;
