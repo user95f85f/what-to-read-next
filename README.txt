@@ -16,7 +16,7 @@ sudo apt install atool curl info links links2 lynx pinfo rsync wget perl-doc
 sudo bash install.sh
 # OK now you can run it
 readme.sh
-# to get some random reading for the day.
+# to get a random command to read (ie. a man page or Debian package "summary")
 
 #Here is an example output:
 $: for i in 1 2 3 4 5 6 7; do readme.sh; done
@@ -33,8 +33,6 @@ sudo bash uninstall.sh
 
 
 ---------------------
-
-the ugly truth about programming is that PHP?/HTML/CSS/JavaScript (in a browser) and below is 99% of all you'll ever really need.
 
 read all of the necessary perl/GNU-linux/bash documentation within a year and you'll be so talented.
 then read it all again within 5 years
